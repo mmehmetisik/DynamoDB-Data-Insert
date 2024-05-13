@@ -22,8 +22,5 @@ The system's architecture is designed to demonstrate serverless data manipulatio
 ## Setup and Configuration
 Follow the detailed setup instructions to configure your AWS environment and deploy the project components. Ensure that all permissions and roles are properly set up for seamless operation.
 
-## Contributing
-Contributions are welcome! Please refer to `CONTRIBUTING.md` for guidelines on how to contribute effectively to this project.
-
 ## License
 This project is licensed under the [MIT License](LICENSE), allowing for widespread use and modification.
