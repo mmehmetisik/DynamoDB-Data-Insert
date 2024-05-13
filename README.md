@@ -1,5 +1,8 @@
 # DynamoDB Data Insert Project
 
+![image](https://github.com/mmehmetisik/DynamoDB-Data-Insert/assets/64706956/db4c9840-86d2-48c3-b09a-1bdc9c2a09b0)
+
+
 ## Project Overview
 This project demonstrates the real-time data handling capabilities using AWS services by inserting randomly generated data into DynamoDB using AWS Lambda. The project leverages serverless architecture to simplify operations and minimize maintenance overhead, ensuring scalability and efficiency.
 
